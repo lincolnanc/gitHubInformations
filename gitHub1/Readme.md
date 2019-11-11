@@ -77,3 +77,10 @@ Informações desse push
 9) Como clonar alguma coisa do git hub para uma pasta local
 
 na home:git clone arquivo clonado nome da pasta
+
+10) branchs
+
+    Importantes para que cada um possa fazer sua parte sem atrapalhar uns aos outros
+    git checkout -b Nome_do_branch
+    git branch -D Nome_do_Branch = apagar branch
+    git checkout Nome_do_Branch = escolher branch 
